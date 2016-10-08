@@ -1,2 +1,3 @@
-# ttf-to-code
-php script that converts true type fonts to code objects (c struct, etc) as bitmaps
+# TTF to Code
+
+This tool converts True Type Fonts to code structures. Only C implemented yet. Feel free to contribute.
